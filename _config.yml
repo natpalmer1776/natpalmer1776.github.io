@@ -84,7 +84,7 @@ author:
   bio              : "Technical Analyst II"
   employer         : "Medical City Arlington"
   location         : "Arlington, TX"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "natpalmer1776@gmail.com"
   uri              :
   bitbucket        :
