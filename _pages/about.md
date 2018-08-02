@@ -10,8 +10,8 @@ redirect_from:
 
 This is my Blog's Homepage.
 ------
-It's pretty empty right now.
-Kinda full of default shit.
-Would you mind leaving?
-I'm not really done setting things up.
+It's pretty empty right now.<br/>
+Kinda full of default shit.<br/>
+Would you mind leaving?<br/>
+I'm not really done setting things up.<br/>
 Thanks.
