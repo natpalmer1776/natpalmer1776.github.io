@@ -81,7 +81,8 @@ analytics:
 author:
   name             : "My Information"
   avatar           : "profile.png"
-  bio              : "Technical Analyst II  Medical City Arlington"
+  bio              : "Technical Analyst II
+  Medical City Arlington"
   employer         : #"Medical City Arlington"
   location         : "Arlington, TX"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
