@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nathan's Blog"
+title: "Nathan's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is my Blog's Homepage.
-------
+This is my Website's Homepage.
+------------------------------
 It's pretty empty right now, kinda full of default shit.
 
 Would you mind leaving? I'm not really done setting things up.
