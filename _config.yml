@@ -16,7 +16,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "natpalmer1776/natpalmer1776.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 90
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
@@ -82,9 +82,7 @@ author:
   name             : "My Information"
   avatar           : "profile.png"
   bio              : "Technical Analyst II"
-  employer         : "Medical City Arlington"
   location         : "Arlington, TX"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "natpalmer1776@gmail.com"
   uri              :
   bitbucket        :
@@ -98,14 +96,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/natpalmer1776/"
+  linkedin         : "natpalmer1776/"
   orcid            : "https://orcid.org/0000-0003-4060-0484"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/10172375/natpalmer1776"
+  stackoverflow    : "10172375/natpalmer1776"
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
