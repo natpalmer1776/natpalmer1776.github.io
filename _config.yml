@@ -52,14 +52,14 @@ yandex_site_verification :
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-124511275-1"
 
 
 # Site Author
 author:
-  name             : "My Information"
+  name             : "Nathaniel Palmer"
   avatar           : "profile.png"
   bio              : "Technical Analyst II"
   location         : "Arlington, TX"
