@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nathaniel's Blog"
+title: "Nathan's Blog"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
